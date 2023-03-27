@@ -55,29 +55,14 @@ about_content: | # this will include new lines to allow paragraphs
   - 导师：梁栋 副教授
   - 邮箱：XuZhengYan@nuaa.edu.cn
 content:    
-  - title: 教育经历 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-        2017 - 2021: 合肥工业大学 计算机科学与技术
-        2022 - 今  : 南京航空航天大学 电子信息
-  - title: 研究方向 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    我的研究兴趣包括:
-    - Image Enhancement
 
 
-   - title: 实践
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-        Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-        - Rock climbing
-        - Gaming
-        - Knitting
-        - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-        Look at this cool image  
-        ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+- title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 
 
