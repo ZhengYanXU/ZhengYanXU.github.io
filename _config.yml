@@ -79,7 +79,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
+      - title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
@@ -98,11 +98,11 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title:教育经历
     layout: text
     content: | # this will include new lines to allow paragraphs
-      2017 - 2021: 合肥工业大学 计算机科学与技术
-      2022 - 今  : 南京航空航天大学 电子信息
+      - 2017 - 2021: 合肥工业大学 计算机科学与技术
+      - 2022 - 今  : 南京航空航天大学 电子信息
 
 
 
