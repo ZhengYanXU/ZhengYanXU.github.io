@@ -102,8 +102,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
     
-      2017 - 2021: 合肥工业大学 计算机科学与技术 
-      2022 - 今  : 南京航空航天大学 电子信息
+       - 2017 - 2021: 合肥工业大学 计算机科学与技术 
+       - 2022 - 今  : 南京航空航天大学 电子信息
+   - title: 研究方向
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      我的研究兴趣包括:
+      - Image Enhancement
 
 
 
