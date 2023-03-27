@@ -52,19 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-content:
-  - title: Educational # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: HeFei University of Technology
-          caption: 2017 - 2021
-          sub_title: Bachelor of Computer Science and Technology
-         - layout: left
-          title:  Nanjing University of Aeronautics and Astronautics
-          caption: 2022 - 
-          
-          
+content:    
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
