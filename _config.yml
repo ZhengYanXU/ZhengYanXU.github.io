@@ -63,7 +63,7 @@ content:
   - title: 研究方向 # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    我的研究兴趣包括：
+    我的研究兴趣包括:
     - Image Enhancement
 #     layout: list # Type of content section (list/text)
 #     content:
