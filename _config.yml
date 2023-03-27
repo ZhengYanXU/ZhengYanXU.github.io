@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: XuZhengyan（徐峥岩）
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: xuzhengyan@nuaa.edu.cn
+website: https://zhengyanxu.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: zhengyanxu
+github_username:  zhengyanxu
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -51,7 +51,12 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+<br>姓名：徐峥岩（Xu Zhengyan）
+<br>年级：2022级硕士
+<br>学院：南京航空航天大学计算机科学与技术学院
+<br>导师：梁栋 副教授
+<br>邮箱：XuZhengYan@nuaa.edu.cn
+<br>本科就读于合肥工业大学计算机科学与技术学院，并于2022年获得本科学位证书。
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
