@@ -64,7 +64,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       我的研究兴趣包括:
-      - Image Enhancement
+      Image Enhancement
 
 
 
