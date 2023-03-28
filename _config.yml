@@ -62,7 +62,7 @@ content:
   - title: 研究方向
     layout: text
     content: | # this will include new lines to allow paragraphs
-      我的研究兴趣在：图像增强、计算机摄影学、图像分割、对比学习等
+      我的研究兴趣包括：图像增强、计算机摄影学、图像分割、对比学习等
 
   - title: 论文
     layout: text
