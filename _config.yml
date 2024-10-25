@@ -58,7 +58,8 @@ content:
   - title: 教育经历 # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      2017 - 2021: 合肥工业大学 计算机科学与技术、2022 - 今  : 南京航空航天大学 电子信息
+      2017 - 2021: 合肥工业大学 计算机科学与技术
+      2022 - 今  : 南京航空航天大学 电子信息
   - title: 研究方向
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -68,12 +69,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       《PIE: Physics-inspired Low-light Enhancement》(IJCV，已发表，CCF-A）
+
       《Beyond the limits: Tackling Extreme Overexposure with Diffusion Model》(ICIC2024，已发表,CCF-C）
   - title: 专利
     layout: text
     content: | # this will include new lines to allow paragraphs
       《一种物理驱动的用于低光图像增强的对比学习方法》(已授权)
-      
+
       《一种语义引导的极端过曝图像修复方法》（已提交）
      
 
