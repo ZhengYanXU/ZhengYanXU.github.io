@@ -72,7 +72,7 @@ content:
   - title: 专利
     layout: text
     content: | # this will include new lines to allow paragraphs
-      《一种物理驱动的用于低光图像增强的对比学习方法》(已授权) |
+      《一种物理驱动的用于低光图像增强的对比学习方法》(已授权) \n
       《一种语义引导的极端过曝图像修复方法》（已提交）
      
 
