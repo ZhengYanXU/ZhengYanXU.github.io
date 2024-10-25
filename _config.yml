@@ -68,13 +68,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
     《PIE: Physics-inspired Low-light Enhancement》(IJCV，已发表，CCF-A,导师一作，实际撰写人）
-    |
-    Beyond the limits: Tackling Extreme Overexposure with Diffusion Model》(ICIC2024，已发表,CCF-C,一作）
+    《Beyond the limits: Tackling Extreme Overexposure with Diffusion Model》(ICIC2024，已发表,CCF-C,一作）
   - title: 专利
     layout: text
     content: | # this will include new lines to allow paragraphs
     《一种物理驱动的用于低光图像增强的对比学习方法》(已授权)
-    |
     《一种语义引导的极端过曝图像修复方法》（已提交）
      
 
